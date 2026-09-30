@@ -1,4 +1,3 @@
-%%writefile sin_cos_phase.py
 import streamlit as st
 import numpy as np
 import sympy as sym
